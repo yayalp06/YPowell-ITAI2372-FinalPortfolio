@@ -1,0 +1,53 @@
+AI = machines doing human-like thinking
+- no longer experimental
+- used in real systems
+AI uses:
+• health ® scans, diagnosis
+• finance ® fraud, credit risk
+• retail ® recs, demand
+• transport ® self-driving, traffic
+• edu ® personalized learning
+Gen AI:
+- creates content (text, images, code)
+- trained on HUGE data
+- ex: chatbots, image generators
+Issues:
+® deepfakes
+® bias in data = bias in output
+® hard to tell AI vs human
+AI + Jobs:
+- automates repetitive tasks
+- humans still needed
+- new jobs (AI oversight, data)
+HITL = human in the loop
+Ethics / Regulation:
+- privacy concerns
+- surveillance issues
+- transparency needed
+Edge AI:
+- AI on device (cams, sensors)
+- faster + more private
+------------------------------
+SMART CITIES
+= tech + data to improve city life
+Infrastructure:
+- sensors everywhere
+- smart lights, grids, water
+Transportation:
+- AI traffic lights
+- smart parking
+- EVs + self-driving
+Sustainability:
+- smart energy use
+- AI predicts demand
+- waste optimized
+Public Safety:
+- smart cameras
+- predictive policing (privacy risk)
+Citizen Services:
+- online gov services
+- AI chatbots
+AI + Smart Cities:
+- IoT = data
+- AI = brain
+Formula: Smart City = AI + IoT + Data + Gov
