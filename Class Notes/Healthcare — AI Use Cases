@@ -1,0 +1,82 @@
+1. Medical Imaging & Diagnosis
+• AI used in X-rays, MRIs, CT scans
+• Detects tumors, fractures, pneumonia, etc.
+• Helps radiologists → faster + fewer missed cases
+• Example tasks:
+• Cancer detection
+• Stroke identification
+2. Predictive Analytics (Patient Risk)
+• Uses patient history + vitals
+• Predicts:
+• Hospital readmission
+• Disease progression
+• ICU risk
+• Helps doctors intervene earlier
+3. Remote Patient Monitoring
+• Wearables + sensors track:
+• Heart rate
+• Blood glucose
+• Oxygen levels
+• AI flags abnormal patterns
+• Reduces hospital visits & costs
+4. Electronic Health Records (EHR) Automation
+• AI summarizes patient notes
+• Auto-fills documentation
+• Reduces doctor burnout
+• Improves data accuracy
+5. Drug Discovery & Development (added use case)
+• AI simulates drug interactions
+• Speeds up testing phases
+• Reduces R&D costs
+• Especially useful for rare diseases
+6. Personalized Treatment Plans (added use case)
+• Tailors treatments using:
+• Genetics
+• Lifestyle data
+• Medical history
+• More effective than one-size-fits-all care
+Agriculture — AI Use Cases
+1. Precision Farming
+• AI analyzes soil, weather, crop data
+• Optimizes:
+• Planting schedules
+• Fertilizer use
+• Water usage
+• Leads to higher yields, less waste
+2. Crop Disease & Pest Detection
+• Computer vision via:
+• Drones
+• Cameras
+• Identifies diseases early
+• Prevents large-scale crop loss
+3. Smart Irrigation Systems
+• AI decides when and how much to water
+• Uses:
+• Soil moisture
+• Weather forecasts
+• Saves water + energy
+4. Autonomous Machinery
+• Self-driving tractors & harvesters
+• Perform:
+• Plowing
+• Seeding
+• Harvesting
+• Reduces labor costs
+5. Yield Prediction (added use case)
+• AI forecasts crop output before harvest
+• Helps farmers:
+• Plan storage
+• Set pricing
+• Reduce financial risk
+6. Supply Chain Optimization (added use case)
+• Predicts demand & spoilage
+• Optimizes transport routes
+• Reduces food waste
+• Improves market efficiency
+Key Takeaways
+• Healthcare AI → improves diagnosis, efficiency, and patient outcomes
+• Agriculture AI → boosts productivity, sustainability, and food security
+• Both rely heavily on:
+• Machine Learning
+• Computer Vision
+• Sensor & IoT data
